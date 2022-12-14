@@ -1,0 +1,118 @@
+﻿Round,Pick,Team,Player,Position,College,Confrerence,Year,Value
+1,3,NYJ,Quinnen Williams,DT,Alabama,SEC,2019,32529371
+1,4,OAK,Clelin Ferrell,DE,Clemson,ACC,2019,31360816
+1,8,DET,T.J. Hockenson,TE,Iowa,Big Ten,2019,19821225
+1,10,PIT,Devin Bush Jr.,LB,Michigan,Big Ten,2019,18871765
+1,12,GNB,Rashan Gary,LB,Michigan,Big Ten,2019,15877312
+1,24,OAK,Josh Jacobs,RB,Alabama,SEC,2019,11933398
+1,28,LAC,Jerry Tillery,DT,Notre Dame,ACC,2019,11422158
+2,38,BUF,Cody Ford,T,Oklahoma,Big 12,2019,7506640
+2,40,OAK,Trayvon Mullen,CB,Clemson,ACC,2019,7259146
+3,76,WAS,Terry McLaurin,WR,Ohio St.,Big Ten,2019,3847671
+3,79,LAR,David Long,CB,Michigan,Big Ten,2019,3801391
+3,93,BAL,Miles Boykin,WR,Notre Dame,ACC,2019,3574928
+3,94,TAM,Jamel Dean,CB,Auburn,SEC,2019,3558852
+4,105,NOR,Chauncey Gardner-Johnson,S,Florida,SEC,2019,3304100
+4,107,TAM,Anthony Nelson,DE,Iowa,Big Ten,2019,3292082
+4,108,NYG,Julian Love,CB,Notre Dame,ACC,2019,3290860
+4,111,ATL,Kendall Sheffield,CB,Ohio St.,Big Ten,2019,3276789
+4,114,MIN,Dru Samia,G,Oklahoma,Big 12,2019,3257119
+4,116,TEN,Amani Hooker,S,Iowa,Big Ten,2019,3253480
+4,117,DET,Austin Bryant,DE,Clemson,ACC,2019,3249836
+4,126,CHI,Riley Ridley,WR,Georgia,SEC,2019,3202596
+4,132,SEA,Ugo Amadi,S,Oregon,Pac-12,2019,3165196
+4,136,CIN,Michael Jordan,G,Ohio St.,Big Ten,2019,3008392
+4,138,PHI,Shareef Miller,DE,Penn St.,Big Ten,2019,3006528
+5,139,ARI,Deionte Thompson,S,Alabama,SEC,2019,2868832
+5,146,DET,Amani Oruwariye,CB,Penn St.,Big Ten,2019,2842105
+5,147,BUF,Vosean Joseph,LB,Florida,SEC,2019,2841296
+5,154,CAR,Jordan Scarlett,RB,Florida,SEC,2019,2829412
+5,165,DAL,Joe Jackson,DE,Miami (FL),ACC,2019,2805688
+5,168,TEN,D'Andre Walker,LB,Georgia,SEC,2019,2786748
+5,170,CLE,Austin Seibert,K,Oklahoma,Big 12,2019,2780456
+5,171,NYG,Darius Slayton,WR,Auburn,SEC,2019,2753988
+6,181,BUF,Jaquan Johnson,CB,Miami (FL),ACC,2019,2704340
+6,197,BAL,Trace McSorley,QB,Penn St.,Big Ten,2019,2680688
+6,204,SEA,Travis Homer,RB,Miami (FL),ACC,2019,2662816
+7,224,DET,Isaac Nauta,TE,Georgia,SEC,2019,2620064
+7,235,JAX,Dontavius Russell,DT,Auburn,SEC,2019,2603184
+7,239,MIN,Dillon Mitchell,WR,Oregon,Pac-12,2019,2600012
+7,241,DAL,Jalen Jelks,DE,Oregon,Pac-12,2019,2598668
+1,3,DET,Jeff Okudah,CB,Ohio St.,Big Ten,2020,33528544
+1,4,NYG,Andrew Thomas,T,Georgia,SEC,2020,32345588
+1,6,LAC,Justin Herbert,QB,Oregon,Pac-12,2020,26578755
+1,7,CAR,Derrick Brown,DT,Auburn,SEC,2020,23621405
+1,8,ARI,Isaiah Simmons,LB,Clemson,ACC,2020,20664055
+1,10,CLE,Jedrick Wills Jr.,T,Alabama,SEC,2020,19702914
+1,13,TAM,Tristan Wirfs,T,Iowa,Big Ten,2020,16228026
+1,17,DAL,CeeDee Lamb,WR,Oklahoma,Big 12,2020,14010012
+2,35,DET,D'Andre Swift,RB,Georgia,SEC,2020,8538914
+2,36,NYG,Xavier McKinney,S,Alabama,SEC,2020,8391049
+2,43,CHI,Cole Kmet,TE,Notre Dame,ACC,2020,7577778
+2,46,DEN,KJ Hamler,WR,Penn St.,Big Ten,2020,7137130
+2,51,DAL,Trevon Diggs,CB,Alabama,SEC,2020,6320907
+2,53,PHI,Jalen Hurts,QB,Oklahoma,Big 12,2020,6025171
+2,54,BUF,A.J. Epenesa,DE,Iowa,Big Ten,2020,5877299
+2,60,NWE,Josh Uche,LB,Michigan,Big Ten,2020,5389335
+3,67,DET,Julian Okwara,DE,Notre Dame,ACC,2020,4926810
+3,77,DEN,Michael Ojemudia,CB,Iowa,Big Ten,2020,4751392
+3,79,NYJ,Jabari Zuniga,DE,Florida,SEC,2020,4726379
+3,82,DAL,Neville Gallimore,DT,Oklahoma,Big 12,2020,4680449
+4,109,LVR,John Simpson,G,Clemson,ACC,2020,4091780
+4,111,MIA,Solomon Kindley,G,Georgia,SEC,2020,4079570
+4,113,CAR,Troy Pride Jr.,CB,Notre Dame,ACC,2020,4072476
+4,132,MIN,Troy Dye,LB,Oregon,Pac-12,2020,3973580
+4,140,JAX,Shaquille Quarterman,LB,Miami (FL),ACC,2020,3789400
+4,144,SEA,DeeJay Dallas,RB,Miami (FL),ACC,2020,3789400
+5,150,NYG,Shane Lemieux,G,Oregon,Pac-12,2020,3642140
+5,157,JAX,Daniel Thomas,S,Auburn,SEC,2020,3612116
+5,177,KAN,Michael Danna,DE,Michigan,Big Ten,2020,3558661
+6,183,NYG,Cam Brown,LB,Penn St.,Big Ten,2020,3493364
+6,193,IND,Robert Windsor,DT,Penn St.,Big Ten,2020,3469020
+6,199,LAR,Jordan Fuller,S,Ohio St.,Big Ten,2020,3465712
+6,210,PHI,Prince Tega Wanogho,T,Auburn,SEC,2020,3444676
+6,213,IND,Jordan Glasgow,LB,Michigan,Big Ten,2020,3424412
+6,214,SEA,Freddie Swain,WR,Florida,SEC,2020,3424412
+7,235,DET,Jashon Cornell,DT,Ohio St.,Big Ten,2020,3379532
+7,242,GNB,Jonathan Garvin,DE,Miami (FL),ACC,2020,3374280
+7,250,LAR,Tremayne Anchrum,G,Clemson,ACC,2020,3370492
+7,252,DEN,Tyrie Cleveland,WR,Florida,SEC,2020,3370492
+1,1,JAX,Trevor Lawrence,QB,Clemson,ACC,2021,36793488
+1,6,MIA,Jaylen Waddle,WR,Alabama,SEC,2021,27085993
+1,7,DET,Penei Sewell,OL,Oregon,Pac-12,2021,24099069
+1,11,CHI,Justin Fields,QB,Ohio St.,Big Ten,2021,18871957
+1,17,LVR,Alex Leatherwood,OL,Alabama,SEC,2021,14391564
+1,18,MIA,Jaelan Phillips,DL,Miami (FL),ACC,2021,14018202
+1,20,NYG,Kadarius Toney,WR,Florida,SEC,2021,13719508
+1,30,BUF,Gregory Rousseau,DL,Miami (FL),ACC,2021,11608200
+1,31,BAL,Odafe Oweh,DE,Penn St.,Big Ten,2021,11342391
+2,33,JAX,Tyson Campbell,DB,Georgia,SEC,2021,9015105
+2,37,PHI,Landon Dickerson,OL,Alabama,SEC,2021,8656675
+2,46,CIN,Jackson Carman,T,Clemson,ACC,2021,7449949
+2,63,KAN,Creed Humphrey,OL,Oklahoma,Big 12,2021,5565208
+2,64,TAM,Kyle Trask,QB,Florida,SEC,2021,5535337
+3,88,SFO,Trey Sermon,RB,Ohio St.,Big Ten,2021,4872934
+3,91,CLE,Anthony Schwartz,WR,Auburn,SEC,2021,4863022
+3,94,BAL,Ben Cleveland,OL,Georgia,SEC,2021,4820535
+3,95,TAM,Robert Hainsey,OL,Notre Dame,ACC,2021,4806372
+3,96,NWE,Ronnie Perkins,DE,Oklahoma,Big 12,2021,4785850
+3,97,LAC,Tre' McKitty,TE,Georgia,SEC,2021,4785852
+3,102,SFO,Ambry Thomas,DB,Michigan,Big Ten,2021,4785852
+4,120,NWE,Rhamondre Stevenson,RB,Oklahoma,Big 12,2021,4229056
+5,146,NYJ,Jamien Sherwood,DB,Auburn,SEC,2021,3834856
+5,147,HOU,Brevin Jordan,TE,Miami (FL),ACC,2021,3832184
+5,157,MIN,Ihmir Smith-Marsette,WR,Iowa,Big Ten,2021,3798960
+5,158,CAR,Daviyon Nixon,DT,Iowa,Big Ten,2021,3798548
+5,160,BAL,Shaun Wade,CB,Ohio St.,Big Ten,2021,3797564
+5,165,IND,Shawn Davis,DB,Florida,SEC,2021,3787331
+5,181,KAN,Cornell Powell,WR,Clemson,ACC,2021,3720152
+5,182,ATL,Adetokunbo Ogundeji,DL,Notre Dame,ACC,2021,3720152
+5,184,BAL,Ben Mason,FB,Michigan,Big Ten,2021,3720148
+6,185,LAC,Nick Niemann,LB,Iowa,Big Ten,2021,3694004
+6,215,TEN,Brady Breeze,S,Oregon,Pac-12,2021,3631176
+6,219,DEN,Seth Williams,WR,Auburn,SEC,2021,3610708
+6,225,WAS,Camaron Cheeseman,LS,Michigan,Big Ten,2021,3610708
+6,228,CHI,Thomas Graham,CB,Oregon,Pac-12,2021,3610708
+7,247,ARI,Michal Menet,OL,Penn St.,Big Ten,2021,3569064
+7,248,IND,Will Fries,OL,Penn St.,Big Ten,2021,3565375
+7,249,LAR,Ben Skowronek,WR,Notre Dame,ACC,2021,3564524
